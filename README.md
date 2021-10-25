@@ -5,10 +5,16 @@
 ### Hi! 👋
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Jurgyte.Jurgyte)
-[![Github](https://img.shields.io/github/followers/Jurgyte?label=Follow&style=social)](https://github.com/Jurgyte)
 
 It's me, Jurga, the frontend developer! 
 Thanks for checking my most sacred coding space. :nerd_face:
+
+### Let the numbers speak for themselves
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurgyte&layout=compact)](https://github.com/Jurgyte/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jurgyte&count_private=true)](https://github.com/Jurgyte/github-readme-stats)
+
 
 <!--
 **Jurgyte/Jurgyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
