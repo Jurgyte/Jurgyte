@@ -13,7 +13,7 @@ Thanks for checking my most sacred coding space. :nerd_face:
 
 <!-- Actual text -->
 
-Co-founder of [Vilnius Girls Code][4]. >br />
+Co-founder of [Vilnius Girls Code][4]. <br />
 I share things with the world on [Twitter][1]. <br />
 You can follow my career on [LinkedIn][2]. <br />
 Check out my blog on [Medium][3]. <br />
