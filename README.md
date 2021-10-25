@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <img width="100%" height="100%" src="https://user-images.githubusercontent.com/20574603/138685235-bb1e49e5-7dfe-4d60-917d-bf48614bcc0d.png" alt="cover" />
+</div>
+
+### Hi! 👋
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Jurgyte.Jurgyte)
+[![Github](https://img.shields.io/github/followers/Jurgyte?label=Follow&style=social)](https://github.com/Jurgyte)
+
+It's me, Jurga, the frontend developer! 
+Thanks for checking my most sacred coding space. :nerd_face:
 
 <!--
 **Jurgyte/Jurgyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
