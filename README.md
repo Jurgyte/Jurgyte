@@ -36,4 +36,4 @@ Check out my blog on [Medium][3]. <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurgyte&layout=compact)](https://github.com/Jurgyte/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jurgyte&count_private=true)](https://github.com/Jurgyte/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jurgyte&count_private=true)](https://github.com/Jurgyte/github-readme-stats) -->
