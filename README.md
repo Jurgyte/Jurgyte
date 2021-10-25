@@ -13,6 +13,7 @@ Thanks for checking my most sacred coding space. :nerd_face:
 
 <!-- Actual text -->
 
+Co-founder of [Vilnius Girls Code][4]. >br />
 I share things with the world on [Twitter][1]. <br />
 You can follow my career on [LinkedIn][2]. <br />
 Check out my blog on [Medium][3]. <br />
@@ -22,6 +23,7 @@ Check out my blog on [Medium][3]. <br />
 [1]: https://twitter.com/Jurgyte
 [2]: https://www.linkedin.com/in/jurgagirdzijauskaite/
 [3]: https://medium.com/@Jurgyte/
+[4]: https://www.facebook.com/vilniusgirlscode/
 
 ## Technologies & tools
 <span>
