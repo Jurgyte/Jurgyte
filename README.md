@@ -9,7 +9,21 @@
 It's me, Jurga, the frontend developer! 
 Thanks for checking my most sacred coding space. :nerd_face:
 
-# Technologies & tools
+### Find more about me
+
+<!-- Actual text -->
+
+I share things with the world on [Twitter][1]. <br />
+You can follow my career on [LinkedIn][2]. <br />
+Check out my blog on [Medium][3]. <br />
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Jurgyte
+[2]: https://www.linkedin.com/in/jurgagirdzijauskaite/
+[3]: https://medium.com/@Jurgyte/
+
+## Technologies & tools
 <span>
 <img width="32px" src="https://user-images.githubusercontent.com/20574603/138694281-45442d88-5a74-406b-a5c1-a69f6598613e.png">
 <img width="32px" src="https://user-images.githubusercontent.com/20574603/138694329-8b287d04-8043-4b0d-b485-3d6a3937e154.png">
@@ -18,24 +32,8 @@ Thanks for checking my most sacred coding space. :nerd_face:
 <img width="32px" src="https://user-images.githubusercontent.com/20574603/138694194-59750e39-ac96-4275-b1fc-8c1b2d04f88a.png">
 </span>
 
-# GitHub Stats
+## GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurgyte&layout=compact)](https://github.com/Jurgyte/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jurgyte&count_private=true)](https://github.com/Jurgyte/github-readme-stats)
-
-
-<!--
-**Jurgyte/Jurgyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
