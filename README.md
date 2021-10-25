@@ -34,8 +34,8 @@ Check out my blog on [Medium][3]. <br />
 <img width="32px" src="https://user-images.githubusercontent.com/20574603/138694194-59750e39-ac96-4275-b1fc-8c1b2d04f88a.png">
 </span>
 
+<!-- 
 ## GitHub stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurgyte&layout=compact)](https://github.com/Jurgyte/github-readme-stats)
-
+ -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jurgyte&count_private=true)](https://github.com/Jurgyte/github-readme-stats) -->
