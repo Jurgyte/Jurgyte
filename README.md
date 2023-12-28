@@ -4,8 +4,6 @@
 
 # Hi! 👋
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Jurgyte.Jurgyte)
-
 It's me, Jurga, the frontend developer! 
 Thanks for checking my most sacred coding space. :nerd_face:
 
